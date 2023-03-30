@@ -1,0 +1,22 @@
+div {
+    padding: 10px 10px 10px 10px;
+}
+
+.top, .content {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 350px;
+}
+.content>div {
+    text-align: left;
+}
+
+#option {
+    height: 25px;
+}
+#txtKey {
+    height: 25px;
+}
+#btnSearch {
+    height: 25px;
+}
